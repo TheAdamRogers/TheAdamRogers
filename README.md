@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheAdamRogers
+- 👀 I’m interested in mobile developement and web development
+- 🌱 I’m currently developing in React, React Native and Node JS.
+- 📫 You can reach me through Git, Linkedin or by email.
